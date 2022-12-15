@@ -1,0 +1,24 @@
+@import "~vuetify/src/styles/styles.sass";
+
+// gap-1 => gap-100
+@for $i from 1 through 100 {
+  .gap-#{$i} {
+    gap: #{$i}px;
+  }
+}
+
+$props: (
+  "width": "w",
+  "height": "h",
+);
+@each $propKey, $propPrefix in $props {
+  .max-#{$propPrefix} {
+    #{$propKey}: max-content;
+  }
+}
+  .carousel-placeholder,.image-placeholder{
+    .v-skeleton-loader__image.v-skeleton-loader__bone{
+      height: 100%
+    }
+  }
+//90vh

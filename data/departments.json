@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Sports",
+    "icon": "mdi-lifebuoy",
+    "supported": false
+  },
+  {
+    "title": "Beauty",
+    "icon": "mdi-briefcase-check-outline",
+    "subMenu": [
+      "Makeup",
+      "skin care",
+      "hair care",
+      "fragrance",
+      "foto & hand care",
+      "tools & accessories",
+      "shabe & hari removal",
+      "personal care"
+    ],
+    "supported": false
+  },
+  {
+    "title": "electronics",
+    "icon": "mdi-bluetooth",
+    "subMenu": [
+      "Camera",
+      "Cell Phones",
+      "Computers",
+      "GPS & Navigation",
+      "HeadPhones",
+      "Television"
+    ],
+    "supported": false
+  },
+  {
+    "title": "Women's Fashion",
+    "icon": "mdi-human-female-female",
+    "subMenu": [
+      "Clothing",
+      "Shoes",
+      "Jewelry",
+      "Watches",
+      "Handbages",
+      "Accessories"
+    ],
+    "supported": false
+  },
+  {
+    "title": "Men's Fashion",
+    "icon": "mdi-human-male-male",
+    "supported": false
+  },
+  {
+    "title": "Health & Household",
+    "icon": "mdi-heart",
+    "supported": false
+  },
+  {
+    "title": "Home",
+    "icon": "mdi-home-outline",
+    "subMenu": [
+      "Bath",
+      "Kitchen & Dinning",
+      "Furniture",
+      "Home Decor",
+      "Lighting"
+    ],
+    "supported": false
+  },
+  {
+    "title": "Best Seller",
+    "icon": "mdi-seal",
+    "supported": false
+  }
+]

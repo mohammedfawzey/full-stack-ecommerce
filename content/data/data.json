@@ -1,0 +1,85 @@
+{
+  "allDepartments": [
+    {
+      "title": "Sports",
+      "icon": "mdi-lifebuoy",
+      "isMenu": false,
+      "supported": false
+    },
+    {
+      "title": "Beauty",
+      "icon": "mdi-briefcase-check-outline",
+      "isMenu": true,
+      "subMenu": [
+        "Makeup",
+        "skin care",
+        "hair care",
+        "fragrance",
+        "foto & hand care",
+        "tools & accessories",
+        "shabe & hari removal",
+        "personal care"
+      ],
+      "supported": false
+    },
+    {
+      "title": "electronics",
+      "icon": "mdi-bluetooth",
+      "isMenu": true,
+      "subMenu": [
+        "Camera",
+        "Cell Phones",
+        "Computers",
+        "GPS & Navigation",
+        "HeadPhones",
+        "Television"
+      ],
+      "supported": false
+    },
+    {
+      "title": "Women's Fashion",
+      "icon": "mdi-human-female-female",
+      "isMenu": false,
+      "subMenu": [
+        "Clothing",
+        "Shoes",
+        "Jewelry",
+        "Watches",
+        "Handbages",
+        "Accessories"
+      ],
+      "supported": false
+    },
+    {
+      "title": "Men's Fashion",
+      "icon": "mdi-human-male-male",
+      "isMenu": false,
+      "supported": false
+    },
+    {
+      "title": "Health & Household",
+      "icon": "mdi-heart",
+      "isMenu": false,
+      "supported": false
+    },
+    {
+      "title": "Home",
+      "icon": "mdi-home-outline",
+      "isMenu": true,
+      "subMenu": [
+        "Bath",
+        "Kitchen & Dinning",
+        "Furniture",
+        "Home Decor",
+        "Lighting"
+      ],
+      "supported": false
+    },
+    {
+      "title": "Best Seller",
+      "icon": "mdi-seal",
+      "isMenu": false,
+      "supported": false
+    }
+  ]
+}

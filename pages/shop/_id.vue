@@ -1,0 +1,3 @@
+<template>
+  <ShopTheProduct />
+</template>

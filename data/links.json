@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Home",
+    "route": "/",
+    "icon": "mdi-home-outline"
+  },
+  {
+    "title": "shop",
+    "route": "/shop",
+    "icon": "mdi-store-outline"
+  },
+  {
+    "title": "women",
+    "route": "/women",
+    "icon": "mdi-human-female-female",
+    "subMenu": [
+      {
+        "title": "women clothing",
+        "subs": [
+          "dressers",
+          "tops & tees",
+          "jants & capris",
+          "sweaters",
+          "dressers",
+          "tops & tees"
+        ]
+      },
+      {
+        "title": "jwelery",
+        "subs": [
+          "dressers",
+          "tops & tees",
+          "jants & capris",
+          "sweaters",
+          "dressers",
+          "tops & tees"
+        ]
+      },
+      {
+        "title": "beauty",
+        "subs": [
+          "dressers",
+          "tops & tees",
+          "jants & capris",
+          "sweaters",
+          "dressers",
+          "tops & tees"
+        ]
+      },
+      {
+        "title": "top brands",
+        "subs": [
+          "dressers",
+          "tops & tees",
+          "jants & capris",
+          "sweaters",
+          "dressers",
+          "tops & tees"
+        ]
+      }
+    ]
+  }
+]
